@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="jmock">
+    <archive path="/tmp/ccj/CameraControl/lib/jmock/jmock-legacy-2.5.1.jar" />
+    <archive path="/tmp/ccj/CameraControl/lib/jmock/objenesis-1.0.jar" />
+    <archive path="/tmp/ccj/CameraControl/lib/jmock/hamcrest-core-1.1.jar" />
+    <archive path="/tmp/ccj/CameraControl/lib/jmock/jmock-2.5.1.jar" />
+    <archive path="/tmp/ccj/CameraControl/lib/jmock/cglib-2.1_3-src.jar" />
+    <archive path="/tmp/ccj/CameraControl/lib/jmock/cglib-nodep-2.1_3.jar" />
+    <archive path="/tmp/ccj/CameraControl/lib/jmock/jmock-junit4-2.5.1.jar" />
+    <archive path="/tmp/ccj/CameraControl/lib/jmock/bsh-core-2.0b4.jar" />
+    <archive path="/tmp/ccj/CameraControl/lib/jmock/hamcrest-library-1.1.jar" />
+    <archive path="/tmp/ccj/CameraControl/lib/jmock/jmock-junit3-2.5.1.jar" />
+    <archive path="/tmp/ccj/CameraControl/lib/jmock/jmock-script-2.5.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
